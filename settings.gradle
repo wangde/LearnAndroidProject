@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':day01-dial', ':buttonclick', ':day01-sms', ':day01-dpandpx'

@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LearnAndroidProject.iml" filepath="$PROJECT_DIR$/LearnAndroidProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buttonclick/buttonclick.iml" filepath="$PROJECT_DIR$/buttonclick/buttonclick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01-dial/day01-dial.iml" filepath="$PROJECT_DIR$/day01-dial/day01-dial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01-dpandpx/day01-dpandpx.iml" filepath="$PROJECT_DIR$/day01-dpandpx/day01-dpandpx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01-sms/day01-sms.iml" filepath="$PROJECT_DIR$/day01-sms/day01-sms.iml" />
     </modules>
   </component>
 </project>

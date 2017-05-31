@@ -9,6 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buttonclick" />
+            <option value="$PROJECT_DIR$/day01-dial" />
+            <option value="$PROJECT_DIR$/day01-dpandpx" />
+            <option value="$PROJECT_DIR$/day01-sms" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

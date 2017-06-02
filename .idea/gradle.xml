@@ -13,6 +13,9 @@
             <option value="$PROJECT_DIR$/day01-dial" />
             <option value="$PROJECT_DIR$/day01-dpandpx" />
             <option value="$PROJECT_DIR$/day01-sms" />
+            <option value="$PROJECT_DIR$/day02-createxml" />
+            <option value="$PROJECT_DIR$/day02-istore" />
+            <option value="$PROJECT_DIR$/day02-logcat" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

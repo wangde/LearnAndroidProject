@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/day01-dial/day01-dial.iml" filepath="$PROJECT_DIR$/day01-dial/day01-dial.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01-dpandpx/day01-dpandpx.iml" filepath="$PROJECT_DIR$/day01-dpandpx/day01-dpandpx.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01-sms/day01-sms.iml" filepath="$PROJECT_DIR$/day01-sms/day01-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-createxml/day02-createxml.iml" filepath="$PROJECT_DIR$/day02-createxml/day02-createxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-istore/day02-istore.iml" filepath="$PROJECT_DIR$/day02-istore/day02-istore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-logcat/day02-logcat.iml" filepath="$PROJECT_DIR$/day02-logcat/day02-logcat.iml" />
     </modules>
   </component>
 </project>

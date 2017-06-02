@@ -16,6 +16,9 @@
             <option value="$PROJECT_DIR$/day02-createxml" />
             <option value="$PROJECT_DIR$/day02-istore" />
             <option value="$PROJECT_DIR$/day02-logcat" />
+            <option value="$PROJECT_DIR$/day03-junit" />
+            <option value="$PROJECT_DIR$/day03-sqlite" />
+            <option value="$PROJECT_DIR$/day03-xmlpullparser" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

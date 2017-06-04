@@ -1,4 +1,4 @@
-package com.hlju.wangde.day03_sqlite;
+package com.hlju.wangde.day03_showdata;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

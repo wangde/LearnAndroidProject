@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/day02-istore" />
             <option value="$PROJECT_DIR$/day02-logcat" />
             <option value="$PROJECT_DIR$/day03-junit" />
+            <option value="$PROJECT_DIR$/day03-showdata" />
             <option value="$PROJECT_DIR$/day03-sqlite" />
             <option value="$PROJECT_DIR$/day03-xmlpullparser" />
           </set>

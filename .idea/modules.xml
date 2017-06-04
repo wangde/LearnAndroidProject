@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/day02-istore/day02-istore.iml" filepath="$PROJECT_DIR$/day02-istore/day02-istore.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02-logcat/day02-logcat.iml" filepath="$PROJECT_DIR$/day02-logcat/day02-logcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03-junit/day03-junit.iml" filepath="$PROJECT_DIR$/day03-junit/day03-junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03-showdata/day03-showdata.iml" filepath="$PROJECT_DIR$/day03-showdata/day03-showdata.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03-sqlite/day03-sqlite.iml" filepath="$PROJECT_DIR$/day03-sqlite/day03-sqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03-xmlpullparser/day03-xmlpullparser.iml" filepath="$PROJECT_DIR$/day03-xmlpullparser/day03-xmlpullparser.iml" />
     </modules>

@@ -20,6 +20,8 @@
             <option value="$PROJECT_DIR$/day03-showdata" />
             <option value="$PROJECT_DIR$/day03-sqlite" />
             <option value="$PROJECT_DIR$/day03-xmlpullparser" />
+            <option value="$PROJECT_DIR$/day04-getmethod" />
+            <option value="$PROJECT_DIR$/day04-imageviewer" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

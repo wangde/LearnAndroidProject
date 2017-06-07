@@ -86,28 +86,38 @@ public class MainActivity extends AppCompatActivity {
 //            textView.setText(p.toString());
 //            textView.setTextSize(16);
             View view = null;
+            ViewHolder mHolder = null;
 //            LayoutInflater inflater = LayoutInflater.from(MainActivity.this);
 //            LayoutInflater inflater = (LayoutInflater) getSystemService(LAYOUT_INFLATER_SERVICE);
 //            View view = inflater.inflate(R.layout.item_listview, null);
             if(convertView == null) {
                 view = View.inflate(MainActivity.this, R.layout.item_listview, null);
+                mHolder = new ViewHolder();
+                mHolder.tv_name = (TextView) view.findViewById(R.id.tv_name);
+                mHolder.tv_phone = (TextView) view.findViewById(R.id.tv_phone);
+                mHolder.tv_salary = (TextView) view.findViewById(R.id.tv_salary);
+
+                view.setTag(mHolder);
             }
             else {
                 view = convertView;
+                mHolder = (ViewHolder) view.getTag();
             }
 
+            mHolder.tv_name.setText(p.getName());
 
+            mHolder.tv_phone.setText(p.getPhone());
 
-            TextView tv_name = (TextView) view.findViewById(R.id.tv_name);
-            tv_name.setText(p.getName());
-
-            TextView tv_phone = (TextView) view.findViewById(R.id.tv_phone);
-            tv_phone.setText(p.getPhone());
-
-            TextView tv_salary = (TextView) view.findViewById(R.id.tv_salary);
-            tv_salary.setText(p.getSalary()+"");
+            mHolder.tv_salary.setText(p.getSalary()+"");
 
             return view;
+        }
+        //把条目所有组件封装在这个类中
+        class ViewHolder{
+            TextView tv_name;
+            TextView tv_phone;
+            TextView tv_salary;
+
         }
     }
 }

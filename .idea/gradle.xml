@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/day03-xmlpullparser" />
             <option value="$PROJECT_DIR$/day04-getmethod" />
             <option value="$PROJECT_DIR$/day04-imageviewer" />
+            <option value="$PROJECT_DIR$/day05-httpclient" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

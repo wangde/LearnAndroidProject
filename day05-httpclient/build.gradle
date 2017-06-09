@@ -3,8 +3,9 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
+    useLibrary 'org.apache.http.legacy'
     defaultConfig {
-        applicationId "com.hlju.wangde.day04_getmethod"
+        applicationId "com.hlju.wangde.day05_httpclient"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1

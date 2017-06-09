@@ -1,1 +1,1 @@
-include ':app', ':day01-dial', ':buttonclick', ':day01-sms', ':day01-dpandpx', ':day02-logcat', ':day02-istore', ':day02-createxml', ':day03-xmlpullparser', ':day03-junit', ':day03-sqlite', ':day03-showdata', ':day04-imageviewer', ':day04-getmethod'
+include ':app', ':day01-dial', ':buttonclick', ':day01-sms', ':day01-dpandpx', ':day02-logcat', ':day02-istore', ':day02-createxml', ':day03-xmlpullparser', ':day03-junit', ':day03-sqlite', ':day03-showdata', ':day04-imageviewer', ':day04-getmethod', ':day05-httpclient'

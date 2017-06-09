@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/day03-xmlpullparser/day03-xmlpullparser.iml" filepath="$PROJECT_DIR$/day03-xmlpullparser/day03-xmlpullparser.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-getmethod/day04-getmethod.iml" filepath="$PROJECT_DIR$/day04-getmethod/day04-getmethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-imageviewer/day04-imageviewer.iml" filepath="$PROJECT_DIR$/day04-imageviewer/day04-imageviewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-httpclient/day05-httpclient.iml" filepath="$PROJECT_DIR$/day05-httpclient/day05-httpclient.iml" />
     </modules>
   </component>
 </project>

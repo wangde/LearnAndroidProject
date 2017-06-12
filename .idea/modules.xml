@@ -18,6 +18,14 @@
       <module fileurl="file://$PROJECT_DIR$/day04-getmethod/day04-getmethod.iml" filepath="$PROJECT_DIR$/day04-getmethod/day04-getmethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-imageviewer/day04-imageviewer.iml" filepath="$PROJECT_DIR$/day04-imageviewer/day04-imageviewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05-httpclient/day05-httpclient.iml" filepath="$PROJECT_DIR$/day05-httpclient/day05-httpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-activity/day06-activity.iml" filepath="$PROJECT_DIR$/day06-activity/day06-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-activityjump/day06-activityjump.iml" filepath="$PROJECT_DIR$/day06-activityjump/day06-activityjump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-transmitdata/day06-transmitdata.iml" filepath="$PROJECT_DIR$/day06-transmitdata/day06-transmitdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-ipdial/day07-ipdial.iml" filepath="$PROJECT_DIR$/day07-ipdial/day07-ipdial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-recorder/day07-recorder.iml" filepath="$PROJECT_DIR$/day07-recorder/day07-recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-runservice/day07-runservice.iml" filepath="$PROJECT_DIR$/day07-runservice/day07-runservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-sendcustombroadcast/day07-sendcustombroadcast.iml" filepath="$PROJECT_DIR$/day07-sendcustombroadcast/day07-sendcustombroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-smsblock/day07-smsblock.iml" filepath="$PROJECT_DIR$/day07-smsblock/day07-smsblock.iml" />
     </modules>
   </component>
 </project>

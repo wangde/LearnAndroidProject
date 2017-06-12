@@ -23,6 +23,14 @@
             <option value="$PROJECT_DIR$/day04-getmethod" />
             <option value="$PROJECT_DIR$/day04-imageviewer" />
             <option value="$PROJECT_DIR$/day05-httpclient" />
+            <option value="$PROJECT_DIR$/day06-activity" />
+            <option value="$PROJECT_DIR$/day06-activityjump" />
+            <option value="$PROJECT_DIR$/day06-transmitdata" />
+            <option value="$PROJECT_DIR$/day07-ipdial" />
+            <option value="$PROJECT_DIR$/day07-recorder" />
+            <option value="$PROJECT_DIR$/day07-runservice" />
+            <option value="$PROJECT_DIR$/day07-sendcustombroadcast" />
+            <option value="$PROJECT_DIR$/day07-smsblock" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

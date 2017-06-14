@@ -33,7 +33,10 @@
             <option value="$PROJECT_DIR$/day07-smsblock" />
             <option value="$PROJECT_DIR$/day08-leaderservice" />
             <option value="$PROJECT_DIR$/day08-musicplayer" />
+            <option value="$PROJECT_DIR$/day08-remoteservice" />
             <option value="$PROJECT_DIR$/day08-runservice" />
+            <option value="$PROJECT_DIR$/dsy08-register" />
+            <option value="$PROJECT_DIR$/runremoteservice" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

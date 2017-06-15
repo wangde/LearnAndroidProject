@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/day07-runservice/day07-runservice.iml" filepath="$PROJECT_DIR$/day07-runservice/day07-runservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-sendcustombroadcast/day07-sendcustombroadcast.iml" filepath="$PROJECT_DIR$/day07-sendcustombroadcast/day07-sendcustombroadcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-smsblock/day07-smsblock.iml" filepath="$PROJECT_DIR$/day07-smsblock/day07-smsblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-dialog/day08-dialog.iml" filepath="$PROJECT_DIR$/day08-dialog/day08-dialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-leaderservice/day08-leaderservice.iml" filepath="$PROJECT_DIR$/day08-leaderservice/day08-leaderservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-musicplayer/day08-musicplayer.iml" filepath="$PROJECT_DIR$/day08-musicplayer/day08-musicplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-remoteservice/day08-remoteservice.iml" filepath="$PROJECT_DIR$/day08-remoteservice/day08-remoteservice.iml" />

@@ -31,6 +31,9 @@
       <module fileurl="file://$PROJECT_DIR$/day08-musicplayer/day08-musicplayer.iml" filepath="$PROJECT_DIR$/day08-musicplayer/day08-musicplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-remoteservice/day08-remoteservice.iml" filepath="$PROJECT_DIR$/day08-remoteservice/day08-remoteservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-runservice/day08-runservice.iml" filepath="$PROJECT_DIR$/day08-runservice/day08-runservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-createcopy/day09-createcopy.iml" filepath="$PROJECT_DIR$/day09-createcopy/day09-createcopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-draw/day09-draw.iml" filepath="$PROJECT_DIR$/day09-draw/day09-draw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-videoplay/day09-videoplay.iml" filepath="$PROJECT_DIR$/day09-videoplay/day09-videoplay.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsy08-register/dsy08-register.iml" filepath="$PROJECT_DIR$/dsy08-register/dsy08-register.iml" />
       <module fileurl="file://$PROJECT_DIR$/runremoteservice/runremoteservice.iml" filepath="$PROJECT_DIR$/runremoteservice/runremoteservice.iml" />
     </modules>

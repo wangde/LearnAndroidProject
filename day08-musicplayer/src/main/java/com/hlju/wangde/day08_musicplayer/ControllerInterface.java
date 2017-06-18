@@ -12,4 +12,8 @@ public interface ControllerInterface {
     void play();
 
     void pauser();
+
+    void continuePlay();
+
+    void seekTo(int progress);
 }

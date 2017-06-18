@@ -36,6 +36,9 @@
             <option value="$PROJECT_DIR$/day08-musicplayer" />
             <option value="$PROJECT_DIR$/day08-remoteservice" />
             <option value="$PROJECT_DIR$/day08-runservice" />
+            <option value="$PROJECT_DIR$/day09-createcopy" />
+            <option value="$PROJECT_DIR$/day09-draw" />
+            <option value="$PROJECT_DIR$/day09-videoplay" />
             <option value="$PROJECT_DIR$/dsy08-register" />
             <option value="$PROJECT_DIR$/runremoteservice" />
           </set>

@@ -34,7 +34,13 @@
       <module fileurl="file://$PROJECT_DIR$/day09-createcopy/day09-createcopy.iml" filepath="$PROJECT_DIR$/day09-createcopy/day09-createcopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/day09-draw/day09-draw.iml" filepath="$PROJECT_DIR$/day09-draw/day09-draw.iml" />
       <module fileurl="file://$PROJECT_DIR$/day09-videoplay/day09-videoplay.iml" filepath="$PROJECT_DIR$/day09-videoplay/day09-videoplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-contentobserver/day10-contentobserver.iml" filepath="$PROJECT_DIR$/day10-contentobserver/day10-contentobserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-getsms/day10-getsms.iml" filepath="$PROJECT_DIR$/day10-getsms/day10-getsms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-mycontentprovide/day10-mycontentprovide.iml" filepath="$PROJECT_DIR$/day10-mycontentprovide/day10-mycontentprovide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-other/day10-other.iml" filepath="$PROJECT_DIR$/day10-other/day10-other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-receivernotify/day10-receivernotify.iml" filepath="$PROJECT_DIR$/day10-receivernotify/day10-receivernotify.iml" />
       <module fileurl="file://$PROJECT_DIR$/dsy08-register/dsy08-register.iml" filepath="$PROJECT_DIR$/dsy08-register/dsy08-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dya10-insertsms/dya10-insertsms.iml" filepath="$PROJECT_DIR$/dya10-insertsms/dya10-insertsms.iml" />
       <module fileurl="file://$PROJECT_DIR$/runremoteservice/runremoteservice.iml" filepath="$PROJECT_DIR$/runremoteservice/runremoteservice.iml" />
     </modules>
   </component>

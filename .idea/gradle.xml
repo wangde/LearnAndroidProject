@@ -39,7 +39,13 @@
             <option value="$PROJECT_DIR$/day09-createcopy" />
             <option value="$PROJECT_DIR$/day09-draw" />
             <option value="$PROJECT_DIR$/day09-videoplay" />
+            <option value="$PROJECT_DIR$/day10-contentobserver" />
+            <option value="$PROJECT_DIR$/day10-getsms" />
+            <option value="$PROJECT_DIR$/day10-mycontentprovide" />
+            <option value="$PROJECT_DIR$/day10-other" />
+            <option value="$PROJECT_DIR$/day10-receivernotify" />
             <option value="$PROJECT_DIR$/dsy08-register" />
+            <option value="$PROJECT_DIR$/dya10-insertsms" />
             <option value="$PROJECT_DIR$/runremoteservice" />
           </set>
         </option>
